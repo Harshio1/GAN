@@ -27,14 +27,21 @@ No installation required — everything runs in your browser.
 ✔ Served with **Gradio** and deployed on **Hugging Face Spaces**
 
 ---
+## 🖼 Example Results
+
+### Input → Output Samples
+
+<img width="2876" height="1437" alt="input-output" src="https://github.com/user-attachments/assets/7724a4bb-d2a6-44d0-a5b2-1f0131a1efb2" />
+
+<img width="1157" height="620" alt="side-by-side" src="https://github.com/user-attachments/assets/0a052657-458e-4e6e-80bf-4ecdb17598c6" />
+
+---
+
 
 ## 🧩 CycleGAN Architecture Overview
 
 Below is a simplified visual diagram of how CycleGAN works:
-Real Photo (X) ───► Generator G ───► Monet Style (Y')
-          ▲                           │
-          │                           ▼
-    Reconstructed X ◄── Generator F ◄── Monet Image (Y)
+Real Photo (X) ───► Generator G ───► Monet Style (Y') ───► Reconstructed X ◄── Generator F ◄── Monet Image (Y)
 
 
 ### 🔍 Key Components
@@ -47,17 +54,6 @@ Real Photo (X) ───► Generator G ───► Monet Style (Y')
 CycleGAN trains **both directions simultaneously**, enforcing cycle-consistency to preserve structure while changing artistic style.
 
 ---
-
-## 🖼 Example Results
-
-### Input → Output Samples
-
-<img width="2876" height="1437" alt="input-output" src="https://github.com/user-attachments/assets/7724a4bb-d2a6-44d0-a5b2-1f0131a1efb2" />
-
-<img width="1157" height="620" alt="side-by-side" src="https://github.com/user-attachments/assets/0a052657-458e-4e6e-80bf-4ecdb17598c6" />
-
----
-
 ## 🏗 Tech Stack
 
 - **TensorFlow / Keras**  
