@@ -23,8 +23,8 @@ No installation required — everything runs in the browser.
 ✔ Fully deployed on Hugging Face Spaces
 
 🖼 Example Results
-<img width="1157" height="620" alt="image" src="https://github.com/user-attachments/assets/0a052657-458e-4e6e-80bf-4ecdb17598c6" />
 <img width="2876" height="1437" alt="image" src="https://github.com/user-attachments/assets/7724a4bb-d2a6-44d0-a5b2-1f0131a1efb2" />
+<img width="1157" height="620" alt="image" src="https://github.com/user-attachments/assets/0a052657-458e-4e6e-80bf-4ecdb17598c6" />
 
 🏗 Tech Stack
 
