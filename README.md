@@ -5,7 +5,7 @@ Think of it as an AI-powered artistic filter — upload a photo or use your **we
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Try It Online
 
 🔗 Try the model instantly on **Hugging Face Spaces**:  
 👉 https://huggingface.co/spaces/Harshio/Monet-Style-Transfer
